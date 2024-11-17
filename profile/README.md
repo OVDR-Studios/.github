@@ -1,9 +1,6 @@
-# Hi there 👋
+# ![Logo](https://ovdrstudios.com/assets/images/logo.png)
 
 Welcome to the official github for all OVDR Studios websites & productions.
-
-
-![Logo](https://ovdrstudios.com/assets/images/logo.png)
 
 <!--
 
