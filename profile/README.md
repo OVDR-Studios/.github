@@ -1,4 +1,4 @@
-# ![Logo]([https://ovdrstudios.com/assets/images/logo.png](https://ovdrstudios.com/assets/images/logos/6abc68fd.png))
+# ![Logo](https://ovdrstudios.com/assets/images/logo.png](https://ovdrstudios.com/assets/images/logos/6abc68fd.png)
 
 Welcome to the official github for all OVDR Studios websites & productions.
 
