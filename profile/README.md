@@ -4,4 +4,4 @@ The official github for all OVDR Studios websites & productions.
 #
 ℹ️ Learn more about us [here](https://ovdrstudios.com/about)
 
-📧 If you have any questions or concerns, please reach out to us at business@ovdrstudios.com
+📧 If you have any questions or concerns, feel free to join our [Discord server](https://discord.gg/ovdr) or email us at business@ovdrstudios.com
