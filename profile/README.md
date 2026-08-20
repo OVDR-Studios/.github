@@ -1,6 +1,6 @@
 ![[Logo]](https://ovdrstudios.com/assets/images/logos/acb92b34.png)
 
-The official github for all OVDR Studios websites & productions. 
+The official Github for all OVDR Studios websites & productions. 
 
 ℹ️ Learn more about us [here](https://ovdrstudios.com/about)
 
